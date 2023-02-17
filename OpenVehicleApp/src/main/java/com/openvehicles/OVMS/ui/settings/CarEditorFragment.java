@@ -328,6 +328,7 @@ public class CarEditorFragment extends BaseFragment {
 			"car_kianiro_grey",
 			"car_kianiro_silver",
 			"car_kianiro_snowwhite",
+			"car_kianiroev_black",
 			"car_kona_grey",
 			"car_kona_white",
 			"car_kona_red",
